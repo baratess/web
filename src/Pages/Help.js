@@ -3,7 +3,7 @@ import { NavLink, Outlet } from "react-router-dom";
 
 function Help() {
   return (
-    <div className="help-layout">
+    <div className="help">
       <h2>Help Page</h2>
       <p> Welcome To Help Page </p>
 
